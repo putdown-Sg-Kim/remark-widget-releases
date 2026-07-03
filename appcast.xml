@@ -3,12 +3,12 @@
     <channel>
         <title>Remark Widget</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Fri, 03 Jul 2026 10:58:43 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Fri, 03 Jul 2026 18:06:52 +0900</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/putdown-Sg-Kim/remark-widget-releases/releases/download/v1.1/RemarkWidget-1.1.zip" length="16476197" type="application/octet-stream" sparkle:edSignature="mC7RjgH6SqRGEa+f0fwt2TEA4Mzv7WuNTY0avPEqNBWmg5/kyM6+/eZGDtGWvEOH/uxPkaRS0jPgkW6GW3ogDw=="/>
+            <enclosure url="https://github.com/putdown-Sg-Kim/remark-widget-releases/releases/download/v1.2/RemarkWidget-1.2.zip" length="16504940" type="application/octet-stream" sparkle:edSignature="eI4nBO33zwzR18m8KfdB0YuiacpCt/MC7mnwZJhzlwLtdoGI5TnrnJL2VxMKCzys+t6Vz4HLqAm85VpN/LxtCg=="/>
         </item>
     </channel>
 </rss>
