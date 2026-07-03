@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Remark Widget</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Fri, 03 Jul 2026 10:58:43 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/putdown-Sg-Kim/remark-widget-releases/releases/download/v1.1/RemarkWidget-1.1.zip" length="16476197" type="application/octet-stream" sparkle:edSignature="mC7RjgH6SqRGEa+f0fwt2TEA4Mzv7WuNTY0avPEqNBWmg5/kyM6+/eZGDtGWvEOH/uxPkaRS0jPgkW6GW3ogDw=="/>
+        </item>
+    </channel>
+</rss>
